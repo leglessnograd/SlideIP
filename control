@@ -3,7 +3,7 @@ Name: SlideIP
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Sets unlock text to WiFi IP.
 Maintainer: Charlie Knight
-Author: Charlie Knight
+Author: Charlie Knight 
 Section: Tweaks
